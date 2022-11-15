@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 100vh;
+    background: #111;
+}
+.card{
+    width: 100%;
+    height: 300px;
+    background: dodgerblue;
+    margin-top: 150px;
+    position: relative;
+}
+.card1{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background: #fff;
+    position: absolute;
+    top: -100px;
+    right: 400px;
+    transform: rotate(45deg);
+}
+.card2{
+    width: 400px;
+    height: 400px;
+    top: -80px;
+    right: 450px;
+    margin: auto;
+    background: dodgerblue;
+    position: absolute;
+    transform: rotate(45deg);
+    border: 100px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #fff;
+}

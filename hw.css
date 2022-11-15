@@ -1,0 +1,433 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.banner{
+    width: 100%;
+    height: 900px;
+    background: url("./фон.jpg") no-repeat center/cover;
+    padding-top: 76px;
+}
+.img0{
+    width: 179px;
+    height: 24px;
+    margin: auto;
+    position: relative;
+}
+.img0 img{
+    width: 100%;
+    height: 100%;
+}
+.img0 .vector1{
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 3.7px;
+    left: 26.26px;
+}
+.img0 .vector2{
+    position: absolute;
+    height: 19px;
+    width: 19px;
+    top: 20px;
+    left: 35px;
+}
+.p1{
+    text-align: center;
+    padding-top: 261px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.h1{
+    font-family: Noto Sans;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 87px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.h2{
+    font-family: Noto Sans;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 87px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid #FFFFFF;
+    margin: auto;
+    display: block;
+}
+.btn i{
+    color: #FFFFFF;
+}
+.p2{
+    position: absolute;
+    height: 25px;
+    width: 258px;
+    left: 670px;
+    top: 620px;
+    color: #FFFFFF;
+}
+.icons{
+    width: 15%;
+    margin: auto;
+    margin-top: 180px;
+}
+.icons i{
+    color: #FFFFFF;
+    font-size: 30px;
+    margin-left: 15px;
+}
+.banner2{
+    width: 80%;
+    height: 763px;
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.banner2_text{
+    width: 480px;
+    height: 100%;
+}
+.banner2_image{
+    width: 600px;
+    height: 670px;
+}
+.banner2_image img{
+    width: 100%;
+    height: 100%;
+}
+.h3{
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #868585;
+}
+.p3{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    padding-top: 60px;
+}
+.p4{
+    width: 90%;
+    padding-top: 15px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+}
+.banner3{
+    width: 80%;
+    height: 765px;
+    margin: auto;
+    display: flex;
+    margin-top: 150px;
+}
+.banner3_text{
+    width: 480px;
+    height: 100%;
+}
+.banner3_image{
+    width: 600px;
+    height: 100%;
+}
+.h4{
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #868585;
+    padding-bottom: 60px;
+}
+.collection{
+    display: flex;
+    list-style: none;
+}
+.item0{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    border-bottom: 1px solid #303030;
+
+}
+.item{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: 40px;
+}
+.card{
+    width: 90%;
+    height: 200px;
+    margin-top: 120px;
+    display: flex;
+}
+.card_img{
+    width: 45%;
+    height: 100%;
+}
+.card_img img{
+    width: 100%;
+    height: 100%;
+}
+.card_text{
+    width: 42%;
+    height: 100%;
+    margin-left: 40px;
+}
+.p5{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+    width: 95%;
+}
+.arrow1{
+    margin-top: 65px;
+}
+.paragraph{
+    margin-top: 122px;
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.paragraph_text1{
+    width: 42%;
+}
+.p6{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.p7{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+    padding-bottom: 16px;
+}
+.p8{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.p9{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+}
+.paragraph_text2{
+    width: 50%;
+    height: 100%;
+    margin-left: 40px;
+}
+.p10{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.p11{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+    width: 90%;
+}
+.p12{
+    padding-top: 19px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.p13{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #303030;
+}
+.img3{
+    width: 600px;
+    height: 62%;
+    margin-top: 100px;
+}
+.img3 img{
+    width: 100%;
+    height: 100%;
+}
+.p14{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    padding-top: 93px;
+}
+.banner4{
+    width: 100%;
+    height: 500px;
+    background: url("./Rectangle\ 10.jpg") no-repeat center/cover;
+    margin-top: 150px;
+}
+.banner4 p{
+    font-family: Noto Sans;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 57px;
+    width: 42%;
+    color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    padding-top: 128px;
+}
+.banner5{
+    width: 80%;
+    height: 495px;
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+}
+.banner5_img{
+    width: 510px;
+    height: 100%;
+}
+.banner5_text{
+    position: relative;
+}
+.h5{
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #868585;
+}
+.banner5_img img{
+    width: 510px;
+    height: 370px;
+    margin-top: 60px;
+}
+.banner5_img img img{
+    width: 100%;
+    height: 100%;
+}
+.p15{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    padding-top: 90px;
+    margin-left: 91px;
+}
+.p16{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+    color: #303030;
+    margin-left: 130px;
+}
+.btn1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #303030;
+    background: transparent;
+    margin-left: 91px;
+    margin-top: 65px;
+}
+.p17{
+    position: absolute;
+    height: 25px;
+    left: 145px;
+    top: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.banner6{
+    width: 80%;
+    height: 730px;
+    margin: auto;
+    display: flex;
+}
+.banner6_text{
+    width: 600px;
+    height: 100%;
+}
+.banner6_img{
+    width: 600px;
+    height: 100%;
+}
+.banner6_img img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.h6{
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    color: #868585;
+}
+.p18{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #868585;
+    padding-top: 60px;
+    padding-bottom: 11px;
+}
+.p19{
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #303030;
+}
+.p20{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #868585;
+    padding-bottom: 11px;
+    width: 90%;
+}
+.p21{
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    padding-top: 30px;
+}
+
